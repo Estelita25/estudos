@@ -1,2 +1,2 @@
 # estudos
- estudos de projetos
+ Projetos de estudos
